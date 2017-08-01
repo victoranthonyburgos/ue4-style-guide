@@ -211,10 +211,10 @@ When naming an asset use these tables to determine the prefix and suffix to use 
 | Level (Gameplay)        |            | _Gameplay  |                                  |
 | Blueprint               | BP_        |            |                                  |
 | Material                | M_         |            |                                  |
-| Static Mesh             | SM_         |            | No idea why Allar wants S_.     |
+| Static Mesh             | SM_         |            |         Versus          S_.     |
 | Skeletal Mesh           | SK_        |            |                                  |
-| Texture                 | T_         | _?         | See [Textures](#anc-textures)    |
-| Particle System         | PS_        |            |                                  |
+| Texture                 | T_         |            | See [Textures](#anc-textures)    |
+| Particle System         | P_         |            |      versus PS_                  |
 | Widget Blueprint        | WBP_       |            |                                  |
 
 <a name="anc-animations"></a>
