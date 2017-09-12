@@ -6,10 +6,6 @@ Heavily inspired by the [Airbnb Javascript Style Guide](https://github.com/airbn
 
 [![Analytics](https://ga-beacon.appspot.com/UA-80567399-1/repo?useReferrer)](#) ![#](https://img.shields.io/badge/lint-partial_support-yellow.svg)
 
-## Bounty
-
-In an effort to reduce circular dependency across all projects, I'm offering a meager $150 bounty for a UE4 Plugin/Tool to be created that would help illustrate circular dependencies so they can be dealt with easily; either as a public tool or code shared with me to integrate into Linter.
-
 ## Unreal Engine 4 Linter Plugin
 
 An automated method of checking your project against this style guide is available for purchase at [the Unreal Engine marketplace](https://www.unrealengine.com/marketplace/linter). This plugin's source code will eventually be free, but in order to use with UE4 without building the engine from source code, please use the marketplace version.
@@ -327,6 +323,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Float Curve             | Curve_     | _Float     |                                  |
 | Foliage Type            | FT_        |            |                                  |
 | Force Feedback Effect   | FFE_       |            |                                  |
+| Gameplay Tags           | GPT_       |            | GPT can come in DT form, ez to see
 | Landscape Grass Type    | LG_        |            |                                  |
 | Landscape Layer         | LL_        |            |                                  |
 | Matinee Data            | Matinee_   |            |                                  |
